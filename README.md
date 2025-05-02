@@ -1,9 +1,8 @@
 
-### E-LUG 1403-12
+### E-LUG 1404-01
 
-| Title  | Speaker | Slides | Video |
+| Title  | Speakers | Slides | Video |
 | ------------- | ------------- | ------------- | ------------- |
-| Memory Safe | [Mahdi Feyzollahi](https://github.com/mateo-rfz) | [PDF](events/1403/12/documents/memory_safe.pdf) - [ODP](events/1403/12/documents/memorySafe.odp) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/E_LUG_IRAN) |
-| Kernelology Memory Management Process Part1 | [M. Moslemi AbarGhan](https://www.linkedin.com/in/mohammad-moslemi-abarghan) | [PDF](events/1403/12/documents/Kernelology_Memory_Management_Process_Part1.pdf) - [PPTX](events/1403/12/documents/#) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/E_LUG_IRAN) |
+| Market and industry challenges | [Meeting attendees](https://github.com/elugiran) | [PDF](events/1404/01/documents/meet-subtitles-2025-04-15.pdf) - [ODT](events/1404/01/documents/meet-subtitles-2025-04-15.odt) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/E_LUG_IRAN) |
 
-![Poster 1403-12](events/1403/12/documents/poster.jpg)
+![Poster 1404-01](events/1404/01/documents/poster_fa.jpg)
