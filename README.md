@@ -1,8 +1,7 @@
+### E-LUG 1404-07
 
-### E-LUG 1404-02
+| Title  | Speakers | Slides | Video | C code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| v4l2 capture example in C | [Arash Golgol](https://github.com/ArashEM) | [PPTX](events/1404/07/documents/v4l2-exmaple-v0.05.pptx) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/E_LUG_IRAN) | [C example](events/1404/07/documents/main.c) |
 
-| Title  | Speakers | Slides | Video |
-| ------------- | ------------- | ------------- | ------------- |
-| An introduction to v4l2 | [Arash Golgol](https://github.com/ArashEM) | [PPTX](events/1404/02/documents/v4l2-intro-v1.00-release.pptx) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/E_LUG_IRAN) |
-
-![Poster 1404-02](events/1404/02/documents/poster_fa.jpg)
+![Poster 1404-07](events/1404/07/documents/poster_fa.jpg)
